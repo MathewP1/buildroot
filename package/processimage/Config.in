@@ -1,0 +1,4 @@
+config BR2_PACKAGE_PROCESSIMAGE
+	bool "processimage"
+	help
+		processes image

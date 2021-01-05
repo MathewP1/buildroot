@@ -1,0 +1,4 @@
+config BR2_PACKAGE_STARTPROCESS
+	bool "startprocess"
+	help
+		starts process duh
